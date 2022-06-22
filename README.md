@@ -31,3 +31,5 @@
   
 	https://xenby.com/b/261-%E6%95%99%E5%AD%B8-spring-boot-%E5%B0%88%E6%A1%88%E5%BB%BA%E7%AB%8B%E8%88%87%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97  
 	
+	注意：要先在Eclipse中下載STS4套件  
+	
