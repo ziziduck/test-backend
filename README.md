@@ -26,6 +26,16 @@
 ## 使用Spring Boot  
 
 	https://ithelp.ithome.com.tw/articles/10214500  
+	api 
+	1.把外部參數轉成內部變數(不要相信別人傳入的東西，要自己驗證做邏輯的處理)
+	2.定義輸出(判斷是陣列還是布林值等等)
+	3.邏輯處理
+	4.轉成標準輸出
+	
+	@service(很多個API共用的服務,放入複雜邏輯)
+	
+	
+	repository資料夾(資料庫轉Class)
 	    
 ## 建立Spring Boot  
   
